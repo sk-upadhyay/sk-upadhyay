@@ -6,7 +6,7 @@
   
   - 🔭 I’m currently working on **NextMove Chess**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Node Js,TS**
 
 - 💬 Ask me about **React,MySQL,PHP,HTML,CSS,JS,C++**
 
